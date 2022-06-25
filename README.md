@@ -1,7 +1,9 @@
 # Changelogs
 
-#1
-Jobs sind nun alle annehmbar im Jobcenter
-Blitzer ziehen "erstmal" kein Geld mehr ab
-Fahrschule macht nun wieder das was sie soll
-Fehlende Autos hinzugefügt
+#2
+Spedition wieder hinzugefügt
+City Rental wieder hinzugefügt
+LSPD u. EMS können dann wieder mit ihrem Schlüssel alle LSPD / EMS Autos öffnen.
+Casino: Fixed Bar Items
+Casino: Bankautomat eingefügt
+Jobkleidungen angepasst
