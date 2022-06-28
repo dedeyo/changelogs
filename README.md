@@ -1,9 +1,8 @@
-# Changelogs
+#3
 
-#2
-Spedition wieder hinzugefügt
-City Rental wieder hinzugefügt
-LSPD u. EMS können dann wieder mit ihrem Schlüssel alle LSPD / EMS Autos öffnen.
-Casino: Fixed Bar Items
-Casino: Bankautomat eingefügt
-Jobkleidungen angepasst
+LostMC Türen abgeschlossen
+LostMC hat ein Lager bekommen
+MedicNPC wieder hinzugefügt
+OceanHospital abgeschlossen
+2 Neue Autos hinzugefügt
+Anticheat überarbeitet
