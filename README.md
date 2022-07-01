@@ -1,8 +1,8 @@
 #3
 
-LostMC Türen abgeschlossen
-LostMC hat ein Lager bekommen
-MedicNPC wieder hinzugefügt
-OceanHospital abgeschlossen
-2 Neue Autos hinzugefügt
-Anticheat überarbeitet
+Kreis beim ändern der Voicerange hinzugefügt
+Einige Türen beim OceanHospital entfernt
+2 Autos aus dem Händler genommen ( trubuffal , polbuffalo )
+Einige Mlos geupdatet
+Name von East Customs angepasst
+
