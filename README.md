@@ -1,9 +1,7 @@
-#4
+#5
 
-Kreis beim ändern der Voicerange hinzugefügt
-Einige Türen beim OceanHospital entfernt
-2 Autos aus dem Händler genommen ( trubuffal , polbuffalo )
-Einige Mlos geupdatet
-Name von East Customs angepasst
-Es regnet nicht mehr so oft
-
+LostMC Taverne hergerichtet und befüllt
+Man kann sich wieder komplett entkleiden
+Neuer RTW beim Fuhrpark hinzugefügt
+Mehl nun beim Nahrungsmittelmarkt verkaufbar
+Kleine Serverfixes behoben
