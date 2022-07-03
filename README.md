@@ -1,7 +1,6 @@
-#5
+#6 
 
-LostMC Taverne hergerichtet und befüllt
-Man kann sich wieder komplett entkleiden
-Neuer RTW beim Fuhrpark hinzugefügt
-Mehl nun beim Nahrungsmittelmarkt verkaufbar
-Kleine Serverfixes behoben
+Neues Parkingsystem (Alle Fahrzeuge sind eingeparkt)
+Die Taverne hat nun alle Getränke mit Bildern
+Im Baumarkt kann man nun Abschleppseile kaufen um ein Auto ab zu schleppen (Item auf benutzen ziehen)
+2 neue Policecars
