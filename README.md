@@ -1,6 +1,9 @@
-#6 
+#7
 
-Neues Parkingsystem (Alle Fahrzeuge sind eingeparkt)
-Die Taverne hat nun alle Getränke mit Bildern
-Im Baumarkt kann man nun Abschleppseile kaufen um ein Auto ab zu schleppen (Item auf benutzen ziehen)
-2 neue Policecars
+PlasmaKart hinzugefügt (Mariokart)
+PlasmaMap hinzugefügt
+Neues Kennzeichen Radarsystem hinzugefügt
+Fehlende Bilder ersetzt
+Npcs wurde angepasst (nicht mehr soviele unterwegs :D)
+Neue Flatbeds hinzugefügt ( Beim Fuhrpark )
+Komplett neues Abschleppsystem hinzugefügt
