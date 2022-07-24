@@ -1,9 +1,8 @@
+Crafting fix: Items die gecraftet werden erhält man nun auch wieder
+Inventory fix: Man konnte das Inventory nicht öffnen ; Dupe Fix
+Farming: Man bekommt nun auch Kohle und Eisen ( Prozentchance )
+Loadingscreen zeigt nun den Namen und das Bild an 
+Steamcheck aktiviert…
+Smartphone - Telefonbuch - Im Appstore verfügbar 
+ Markt kauft nun auch Kunststoff an
 
-#9
-
-Großes Garagenupdate ( Neue Garagen mit Vorschau etc. )
-Vorrübergehend kann man alle Autos in jeder Garage aus und einparken ( ändert sich zum Wochenende )
-Parking hat ein neues Update bekommen ( nun wird alles gespeichert an Tunings )
-Kleines Inventoryupdate
-Fehlende Namen hinzugefügt
-Kleine Fehler behoben die zu Laggs führten.
